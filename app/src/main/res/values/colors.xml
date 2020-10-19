@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="yellogreen">#a4c639</color>
+    <color name="Redplum">#db5a6b</color>
+    <color name="Moonstone">#3aa8c1</color>
+    <color name="vampireblack">#080808</color>
+    <color name="lightgreen">#00ffce</color>
+    <color name="blue">#00d2ff</color>
+    <color name="pink">#ff008d</color>
+</resources>
